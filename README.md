@@ -35,7 +35,7 @@ Two basic url:
 ## Quick-start
 
 ```
-git clone https://github.com/naminhcs/HTTP-CPP.git workspace
+git clone https://github.com/naminhcs/HTTP-CPP.git
 bash run.sh
 ```
 After run this command, server will run on port 8080.
