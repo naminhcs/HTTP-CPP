@@ -1,0 +1,10 @@
+#ifndef _CONSTANT_H_
+#define _CONSTANT_H_
+
+#define BACKLOG_MAX (32767)
+#define MAX_CONCURRENT_CONNECTIONS (10000)
+#define MAX_WORKERS (8)
+#define MY_PORT (8080)
+#define MAX_LENGTH_BODY (1024)
+
+#endif // _CONSTANT_H_
